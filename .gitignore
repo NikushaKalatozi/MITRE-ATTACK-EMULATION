@@ -1,0 +1,8 @@
+# Metadata
+/LocaleMetadata
+
+# Vscode
+.vscode/
+
+# Workdir
+.DS_Store
