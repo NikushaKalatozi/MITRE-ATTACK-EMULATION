@@ -1,0 +1,14 @@
+1.Start the programs and search for updates
+2.Install updates
+3.Surf some Websites
+4.Download pdf and open
+5.Chrome: Download and install MS Office Trial
+6.Make screenshot with greenshot;
+7.Execute java --version
+8.Open notepad++ sysmon config
+9.Vscode extension install powershell stuff, python stuff
+10.Putty to localhost
+11.Winscp to localhost
+12.Open Winmerge
+13.Pack and extract using 7zip
+14.Pack and extract using WinRar
